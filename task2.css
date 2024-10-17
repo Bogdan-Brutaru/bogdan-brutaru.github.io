@@ -57,7 +57,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url('.jpg');
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.technocrazed.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fbeautiful-wallpaper-download-13.jpg&f=1&nofb=1&ipt=76feaf16958ea9d206eb14f7cd84b539990b78b024643f0299417809847957a7&ipo=images');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -194,4 +194,8 @@ body {
   .cover-container {
     width: 700px;
   }
+}
+
+img {
+    width: 200px;
 }
